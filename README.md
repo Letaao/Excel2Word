@@ -12,10 +12,10 @@ need to be in the "data" folder.
 
 ### Title
 section_title = "业务功能需求"\
-section_number = "1"  # Changeable\
+section_number = "1"  # Changeable
 
 ### Font
 Simsun with Times New Roman
 
 ### Save Path
-word_path = './data/Generated_Document.docx'\
+word_path = './data/Generated_Document.docx'
